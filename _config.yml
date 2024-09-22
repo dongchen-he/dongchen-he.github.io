@@ -12,7 +12,7 @@ title                    : "Dongchen He"
 title_separator          : "-"
 name                     : &name "Dongchen He"
 description              : &description "Energy Economist"
-url                      : https://dongchen-he.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hdcada.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hdcada/dongchen-he.github.io"
 
@@ -21,7 +21,7 @@ repository               : "hdcada/dongchen-he.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/myphoto.jpg"
+  avatar           : "myphoto.jpg"
   name             : "Dongchen He"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "dongchen-he"
+  github           : "hdcada"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
