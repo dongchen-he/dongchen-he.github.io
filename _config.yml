@@ -36,8 +36,9 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9747-4242"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  linkedin         : "https://www.linkedin.com/in/dongchen-he-028668206/"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
