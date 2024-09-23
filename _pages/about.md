@@ -1,9 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi there, welcome to my personal page!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a fourth-year PhD student.
+"How can we transition to green energy while ensuring no one is left behind?" "Is the current electricity market design good enough for energy transition?" 
+
+These questions drive my PhD research. Currently, I’m deeply intrigued by how net-metering policies can create externalities that disadvantage non-adopters, and seek for alternatives that balance the energy transition with equity. Additionally, I am interested in electricity market design to incentivize flexibility investment and developing derivatives pricing strategy with growing green share.
