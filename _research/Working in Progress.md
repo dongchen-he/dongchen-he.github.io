@@ -2,7 +2,7 @@
 title: "Unveiling the Winners and Losers: The Distributive Impacts of Net Metering Policies"
 collection: research
 category: Working in Progress
-permalink: /research/job market paper
+permalink: /research/Working in Progress
 excerpt: 'Abstract: Forthcoming'
 date: 2009-10-01
 venue: 'Journal 1'
