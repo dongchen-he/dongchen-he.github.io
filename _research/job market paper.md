@@ -2,7 +2,7 @@
 title: "Unveiling the Winners and Losers: The Distributive Impacts of Net Metering Policies"
 collection: research
 category: manuscripts
-permalink: /research/job market paper
+permalink: /research/
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 #date: 2009-10-01
 #venue: 'Journal 1'
