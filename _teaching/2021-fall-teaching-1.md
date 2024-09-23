@@ -8,12 +8,3 @@ date: 2021-09-01
 location: "Tilburg, the Netherlands"
 ---
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
