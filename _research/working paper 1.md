@@ -1,7 +1,7 @@
 ---
-title: "Flexibility in Power System: Market Design Matters}(\textit{with Bert Willems"
+title: "Flexibility in Power System: Market Design Matters"
 collection: research
-category: manuscripts
+category: Working Paper
 permalink: /research/
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 #date: 2009-10-01
