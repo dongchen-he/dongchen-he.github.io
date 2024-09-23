@@ -1,5 +1,3 @@
-Working Paper
-======
 ---
 title: "Flexibility in Power System: Market Design Matters}(\textit{with Bert Willems"
 collection: research
