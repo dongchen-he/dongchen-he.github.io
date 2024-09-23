@@ -2,7 +2,7 @@
 title: "Paper Title Number 1"
 collection: research
 category: manuscripts
-permalink: /research/working paper 1
+permalink: /research/
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
