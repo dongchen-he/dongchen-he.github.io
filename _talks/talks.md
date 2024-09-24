@@ -22,6 +22,7 @@ Conferences
 Workshops
 ======
 ***
+* Engineering Energy Summer School by Frank Wolak (Stanford), Stockholm June 2024 
 * Energy Workshop, Toulouse Oct 2023
 * Energy Market Winter School, Oppdal Feb 2022
 * Energy Transition Empiric Workshop by Mar Reguant, Online Aug 2021
