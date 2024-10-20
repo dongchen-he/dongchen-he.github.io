@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Tilburg University
+Tilburg University, teaching assistant
 ======
 * Contract Theory, Graduate level, 2024
 * Information Economics, Bachelor level, 2023-2024
@@ -17,6 +17,6 @@ Tilburg University
 * Intermediate Economics, Bachelor level, 2022
 * Microeconomics 1, Bachelor level, 2021
 
-Renmin University of China
+Renmin University of China, teaching assistant
 ======
 * Advanced Microeconomics, Graduate level, 2017
