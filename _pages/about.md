@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal page!" <meta name="google-site-verification" content="s1gNB1fd-zoTFFr3nIbOcytPh4ohB8geE9n9G9milO8" />
+title: "Welcome to my personal page!" 
 author_profile: true
 redirect_from: 
   - /about/
