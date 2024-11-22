@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Welcome to my personal page!" 
+title: "Welcome to my page!" 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
   - /google4f6b121ce9bed36b.html
 ---
-"How can we transition to green energy while ensuring no one is left behind?" "Is the current electricity market design good enough for energy transition?" 
+**Energy Economist/Microeconomic Theory/Asset Pricing/Structural Estimation**
+"How can we transition to green energy while ensuring no one is left behind?"
+"Is the current electricity market design good enough for energy transition?" 
 
-These questions drive my PhD research in Economics at Tilburg University, under the supervision of Prof. Bert Willems and Prof. Ronald Huisman. Currently, I’m deeply intrigued by how net-metering policies can create externalities that disadvantage low-income households. I seek alternatives that balance the energy transition with equity. Additionally, I am interested in electricity market design to incentivize flexibility investment and developing a derivatives pricing strategy with a growing green share.
+These questions drive my PhD research in Economics at Tilburg University, under the supervision of Prof. Bert Willems and Prof. Ronald Huisman. I’m now interested in the redistributive effects of different renewable incentive policies. In my paper, I use administrative data in the Netherlands and high-frequency price data. I am also interested in electricity market design and derivatives pricing strategy with a growing share of renewable energy.
