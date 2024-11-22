@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
   - /google4f6b121ce9bed36b.html
 ---
-**Research Fields**: Energy Economics/Microeconomic Theory/Asset Pricing/Structural Estimation
+**Research Fields**: Energy Economics, Microeconomic Theory, Asset Pricing, Structural Estimation
 
 "How can we transition to green energy while ensuring no one is left behind?"
 
