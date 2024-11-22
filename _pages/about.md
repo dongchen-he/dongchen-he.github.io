@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Welcome to my page!" 
+title: "Energy Economist/Microeconomic Theory/Asset Pricing/Structural Estimation" 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
   - /google4f6b121ce9bed36b.html
 ---
-**Energy Economist/Microeconomic Theory/Asset Pricing/Structural Estimation**
-
 "How can we transition to green energy while ensuring no one is left behind?"
 
 "Is the current electricity market design good enough for energy transition?" 
