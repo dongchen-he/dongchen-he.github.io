@@ -10,7 +10,7 @@ redirect_from:
 Job Market Paper
 ======
 ***
-**Unveiling the Winners and Losers: The Distributive Impacts of Net Metering Policies**
+**Unveiling the Winners and Losers: The Distributive Effects of Net Metering Policies**
 
 This paper examines the impact of net metering policies on households across different wealth groups by disproportionately incentivizing residential solar photovoltaic (PV) adoption. The findings suggest that net metering produces positive externalities when residential solar PV adoption is limited. However, as PV adoption grows, net metering generates negative externalities, and low-income households implicitly cross-subsidize wealthy ones. Among alternatives, each policy encourages different installation behaviors. Net metering incentivizes households to install solar capacity close to their consumption level, while feed-in premiums promote larger installations, and investment subsidies encourage smaller capacities. Although feed-in premiums are the fairest, they are the most expensive policy and increase electricity surplus returned to the grid, potentially leading to higher grid upgrade costs. To mitigate the inequities of net metering, encouraging non-solar households to adopt dynamic retail contracts or having energy companies charge a return delivery fee could also be effective solutions. Overall, the results highlight the insufficiency of simply changing the incentivizing policies but integrating complementary solutions to facilitate an efficient and equitable energy transition.
 
