@@ -38,6 +38,6 @@ This paper presents new components that explain the risk premium priced in elect
 Reading Groups
 ======
 ***
-**[Env.Climate Reading Group](https://www.kdocs.cn/l/cfjbuzzQjTKH)**, co-organized with [Hulai Zhang](https://hulaizh.github.io/index.html), [Lishu Zhang] (https://lishuz.github.io/), and [Shengyu Li] (https://www.tilburguniversity.edu/staff/s-li_11).
+**[Env.Climate Reading Group](https://www.kdocs.cn/l/cfjbuzzQjTKH)**, co-organized with [Hulai Zhang](https://hulaizh.github.io/index.html), [Lishu Zhang](https://lishuz.github.io/), and [Shengyu Li](https://www.tilburguniversity.edu/staff/s-li_11).
 
 This weekly reading group discusses academic papers across topics including but not limited to Environmental and Energy Economics, as well as Sustainable Finance. Feel free to reach out to any of the organizers if you are interested.
