@@ -11,7 +11,7 @@ redirect_from:
 
 "Is the electricity market design ready for the energy transition?" 
 
-These questions drive my PhD research in Economics at Tilburg University, under the supervision of Prof. Bert Willems and Prof. Ronald Huisman. I’m now interested in the distributional effects of different renewable incentive policies. In my paper, I use Dutch administrative data and high-frequency price data. I am also interested in electricity market design and derivatives pricing strategy with a growing share of renewable energy. I will be on the 2025-26 job market.
+These questions drive my PhD research in Economics at Tilburg University, under the supervision of Prof. Bert Willems and Prof. Ronald Huisman. I am interested in the distributional effects of solar PV support policies and the taxation schemes to finance the subsidy. In my paper, I use Dutch administrative data and high-frequency price data. I am also interested in electricity market design and derivatives pricing strategy with a growing share of renewable energy. I will be on the 2025-26 job market.
 
 **Research Fields**: Energy Economics, Empirical Industrial Organization, Microeconomic Theory, Asset Pricing
 
