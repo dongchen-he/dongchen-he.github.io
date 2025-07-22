@@ -16,7 +16,7 @@ This paper investigates the impact of the net metering policy on residential sol
 
 **Selected Conferences**: IAEE International 2025, EEA (August, 2025), IAEE ASSA (Jan, 2026).
 
-Working Papers
+Papers in Progress
 ======
 ***
 **Flexibility in Power System: Market Design Matters**, with Bert Willems
@@ -27,8 +27,6 @@ On top of that, this paper discusses the efficiency of alternative market design
 
 **Selected Conferences**: AIEE 2021, YEEES 2022, EEA 2023, CEEM PhD Conference 2023, CEA 2024.
 
-Papers in Progress
-======
 ***
 **Electricity Forward Premium: Renewable Integration and Skewness Preference**, with Ronald Huisman and Bert Willems
 
