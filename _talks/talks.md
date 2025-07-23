@@ -12,8 +12,9 @@ redirect_from:
 Conferences
 ======
 ***
+* EEA, Bordeaux August 2025
 * IAEE International, Paris June 2025
-* FMA European, Limassol June 2026
+* FMA European, Limassol June 2025
 * Canadian Economics Association 58th Annual Meetings, Online May 2024
 * Conference on Climate and Energy Finance, Hannover Nov 2023
 * EEA-ESEM 2023, Barcelona Aug 2023
