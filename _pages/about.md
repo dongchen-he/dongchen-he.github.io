@@ -11,8 +11,8 @@ redirect_from:
 
 "Is the electricity market design ready for the energy transition?" 
 
-These questions drive my PhD research in Economics at Tilburg University, under the supervision of Prof. Bert Willems and Prof. Ronald Huisman. I am interested in the welfare effects of renewable energy policies. In my job market paper, I use Dutch administrative data and high-frequency price data to analyze the distributional effects of solar PV subsidies and the taxation schemes to finance the subsidies. I am also interested in electricity market design and derivatives pricing strategy with a growing share of renewable energy. I will be on the 2025-26 job market.
+These questions drive my PhD research in Economics at Tilburg University, under the supervision of Prof. Bert Willems and Prof. Ronald Huisman. I am interested in the effects of renewable energy policies on household behavior and welfare. In my job market paper, I use Dutch administrative data to analyze the household adoption decisions and distributional consequences of residential solar subsidies and their tax financing. I am also interested in electricity market design and derivatives pricing strategy with a growing share of renewable energy. I will be on the 2025-26 job market.
 
 **Research Fields**: Energy Economics, Empirical Industrial Organization, Microeconomic Theory, Asset Pricing
 
-I will attend EEA 2025 to present my job market paper.
+I will present my job market paper at ASSA 2026 (Jan 3-5).
