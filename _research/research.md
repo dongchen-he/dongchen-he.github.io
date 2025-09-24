@@ -10,9 +10,9 @@ redirect_from:
 Job Market Paper
 ======
 ***
-**Redistributional Effects of Residential Solar Support Policies**
+**Who Pays, Who Adopts? Efficiency and Equity of Residential Solar Policy**
 
-This paper investigates the impact of the net metering policy on residential solar photovoltaic adoption and its distributional effects across different wealth groups. The findings show that net metering accounts for 79.21% of residential solar capacity from 2012 to 2022, along with a regressive effect where households in the lowest 20% wealth group contribute a net 11.15% of the total subsidy, while the highest 20% wealth group receives a net 10.38% of the subsidy. Replacing the net metering policy with feed-in premiums or the upfront subsidy only improves the redistribution by less than 1%. Moreover, compared to the net metering policy, feed-in premiums encourage larger PV installations, and upfront subsidy promotes smaller capacities. Consequently, feed-in premiums export 13.37% more electricity to the grid, and the average installation cost is 11.93% higher when an upfront subsidy applies. This implies that a simple policy replacement may not address issues such as inequality and rising grid costs with net metering.
+This paper studies the equilibrium outcomes of alternative residential solar support policies within a nested discrete choice framework. Households endogenously determine both whether to adopt solar photovoltaic and how much capacity to install, implying intensive effects of the policies. Furthermore, while adoption is always skewed to high-income groups, households respond heterogeneously to policy instruments: low-income households are more sensitive to decreasing installation costs, while high-income households are more responsive to future revenues. The method of raising subsidy also shapes distributional outcomes: lump-sum taxes and surcharges on electricity consumption tend to be regressive, whereas income-based financing mitigates inequality. These findings highlight the importance of careful policy design.
 
 **Selected Conferences**: IAEE International 2025, EEA (August, 2025), IAEE ASSA (Jan, 2026).
 
