@@ -11,8 +11,8 @@ redirect_from:
 
 Tilburg University, teaching assistant
 ======
-* Contract Theory, Graduate level, 2024
-* Information Economics, Bachelor level, 2023-2024
+* Contract Theory, Graduate level, 2024-2025
+* Information Economics, Bachelor level, 2023-2025
 * Game Theory, Graduate level, 2020-2023
 * Intermediate Economics, Bachelor level, 2022
 * Microeconomics 1, Bachelor level, 2021
