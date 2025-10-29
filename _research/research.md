@@ -29,7 +29,7 @@ On top of that, this paper discusses the efficiency of alternative market design
 **Selected Conferences**: AIEE 2021, YEEES 2022, EEA 2023, CEEM PhD Conference 2023, CEA 2024.
 
 ***
-**Electricity Forward Premium: Renewable Integration and Skewness Preference**, with Ronald Huisman and Bert Willems
+**[Electricity Forward Premium: Renewable Integration and Skewness Preference](/files/Project 2)**, with Ronald Huisman and Bert Willems
 
 This paper presents new components that explain the risk premium priced in electricity forward and futures contracts. These components relate to the inclusion of renewable power sources in electricity markets. We build upon the equilibrium pricing model presented by Bessembinder and Lemmon (2002), which comes from a time wherein intermittent renewable power supply was negligible. We extend their framework by including intermittent supply from zero marginal costs renewable power sources such as wind and solar and by assuming that agents consider mean-variance-skewness preferences instead of mean-variance only. Beyond variance and skewness of wholesale spot prices as components found before, we show that components that relate to the covariance and coskewness between renewable supply and spot prices explain the power forward risk premium as well. We find empirical evidence that these new components are statistically significant and improve the explanatory power of empirical regressions. Our results suggest the importance of considering the asymmetry of renewable supply shocks in explaining electricity forward premiums.
 
