@@ -20,7 +20,7 @@ This paper studies the equilibrium outcomes of diverse residential solar subsidi
 Papers in Progress
 ======
 ***
-**Flexibility in Power System: Market Design Matters**, with Bert Willems
+**[Flexibility in Power System: Market Design Matters](/files/PhD_Project_1_Dongchen.pdf)**, with Bert Willems
 
 <!--[Flexibility in Power System: Market Design Matters](/files/PhD_Project_1_Dongchen.pdf)-->
 The growing share of renewable energy requires sufficient investment in power system flexibility. In this paper, we frame a three-stage peak-load pricing model consisting of investment, commitment, and production, considering that electricity generation is costly to adjust on short notice. The results demonstrate the importance of increasing time granularity in electricity markets with efficient state-contingent prices. Adapting the idea of real options theory that waiting is valuable, flexible firms avoid producing in the low-demand state and earn a premium to recoup investment costs.
