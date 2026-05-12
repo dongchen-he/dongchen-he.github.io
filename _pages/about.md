@@ -17,4 +17,3 @@ These questions drive my PhD research in Economics at Tilburg University, under 
 
 **Ph.D. Committee**: Jan Boone, Natalia Fabra, Machiel Mulder, Nicola Pavanini
 
-I will present my job market paper at ASSA 2026 (Jan 3-5).
