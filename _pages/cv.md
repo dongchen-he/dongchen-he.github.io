@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, Tilburg University, 2025 (expected)
+* Ph.D in Economics, Tilburg University, 2026
 * M.S. in Economics, Tilburg University, 2021
 * M.S. in Finance, Renmin University of China, 2019
 * B.S. in Economics, Central University of Finance and Economics, 2016
