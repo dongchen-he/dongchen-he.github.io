@@ -12,7 +12,7 @@ redirect_from:
 Conferences
 ======
 ***
-* BSE Summer Forum (Applied Industrial Organization), Barcelina June 2026
+* BSE Summer Forum (Applied Industrial Organization), Barcelona June 2026
 * ASSA IAEE, Philadelphia Jan 2026
 * EEA, Bordeaux August 2025
 * IAEE International, Paris June 2025
