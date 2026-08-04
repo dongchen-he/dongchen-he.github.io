@@ -16,7 +16,7 @@ Job Market Paper
 This paper studies diverse residential solar subsidies within a nested discrete choice framework, introducing endogenous capacity choice and heterogeneous household preferences. Solar subsidies affect the intensive margin. Households install small solar panels when subsidies reimburse upfront investment costs, creating a high fiscal cost to achieve the capacity target. Furthermore, households respond heterogeneously to subsidies: switching from a subsidy based on future production to one that reduces upfront investment costs shifts solar photovoltaics adoption toward lower-income households. I propose a novel policy screening method that minimizes fiscal costs and maximizes welfare gain.
 The method of raising subsidies also shapes distributional outcomes. These findings highlight the importance of subsidy policy design.
 
-**Selected Conferences**: IAEE International 2025, EEA (August 2025), IAEE ASSA (Jan 2026) BSE Summer Forum (AIO, June 2026).
+**Selected Conferences**: BSE Summer Forum (AIO, June 2026), IAEE ASSA (Jan 2026), IAEE International 2025, EEA (August 2025).
 
 Papers in Progress
 ======
