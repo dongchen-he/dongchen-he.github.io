@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Job Market Paper
+Paper in progress
 ======
 ***
 **Who Pays, Who Adopts? Efficiency and Equity of Residential Solar Policy**
@@ -18,8 +18,6 @@ The method of raising subsidies also shapes distributional outcomes. These findi
 
 **Selected Conferences**: BSE Summer Forum (AIO, June 2026), IAEE ASSA (Jan 2026), IAEE International 2025, EEA (August 2025).
 
-Papers in Progress
-======
 ***
 **[Flexibility in Power System: Market Design Matters](/files/PhD_Project_1_Dongchen.pdf)**, with Bert Willems
 
