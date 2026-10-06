@@ -10,7 +10,7 @@ redirect_from:
 Job Market Paper
 ======
 ***
-**[Who Pays, Who Adopts? Efficiency and Equity of Residential Solar Policy]**
+**Who Pays, Who Adopts? Efficiency and Equity of Residential Solar Policy**
 <!--Who Pays, Who Adopts? Efficiency and Equity of Residential Solar Policy](/files/JMP.pdf)-->
 
 This paper studies diverse residential solar subsidies within a nested discrete choice framework, introducing endogenous capacity choice and heterogeneous household preferences. Solar subsidies affect the intensive margin. Households install small solar panels when subsidies reimburse upfront investment costs, creating a high fiscal cost to achieve the capacity target. Furthermore, households respond heterogeneously to subsidies: switching from a subsidy based on future production to one that reduces upfront investment costs shifts solar photovoltaics adoption toward lower-income households. I propose a novel policy screening method that minimizes fiscal costs and maximizes welfare gain.
